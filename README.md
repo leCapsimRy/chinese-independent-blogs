@@ -202,6 +202,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.shizuri.net/feed)                            | 静之林                       | https://blog.shizuri.net/         | 生活; 随笔; 前端; 动漫                        |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.javatang.com/feed)                            | 爪哇堂                       | https://www.javatang.com/         | 编程; 笔记                                |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.lujun9972.win/rss.xml)                        | 暗无天日                      | https://www.lujun9972.win         | Emacs; Linux                          |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://chenhua.name/cn/index.xml)                        | 陈华的个人主页                   | https://chenhua.name              | 物理; 生活                                |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://shrekshao.github.io/feed.xml)                      | ShrekShao                 | http://shrekshao.github.io        | 编程                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://ridiqulous.com/feed)                              | RidiQulous                | https://ridiqulous.com            | 图像处理; 乐高                              |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://vzardlloo.github.io/atom.xml)                     | vzard's blog              | https://vzardlloo.github.io       | 编程                                    |
@@ -317,6 +318,8 @@
 |                                                                                                                 | Dasyatis                  | https://www.bobby285271.top/      | 编程; Linux                             |
 |                                                                                                                 | 薛定喵君的博客                   | http://blog.xuedingmiao.com/      | 编程; 前端; 产品; 笔记                        |
 |                                                                                                                 | Ryan_naiquan              | https://www.lpime.cn/             | 编程; C++; 后台                           |
+|                                                                                                                 | 索菲外贸笔记                    | https://sophienotes.cn/           | 外贸; 随笔; 英语                            |
+|                                                                                                                 | 阳志平的网志                    | https://www.yangzhiping.com/      | 认知科学; 随笔                              |
 
 ## 什么是独立博客
 
