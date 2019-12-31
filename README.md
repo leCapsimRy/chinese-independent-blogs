@@ -121,6 +121,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xilidou.com/atom.xml)                             | 犀利豆的博客                    | https://xilidou.com               | 编程                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://mednoter.com/feed.xml)                            | 吕小荣的网志                    | https://mednoter.com/             | 编程; 随笔; 生活                            |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.502.li/atom.xml)                             | 木子                        | https://blog.502.li/              | Linux; 科学上网; 读书笔记; 运维; 隐私; android    |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.cyhone.com/atom.xml)                          | 编程沉思录                     | https://www.cyhone.com            | 编程; 后端                                |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.dongwm.com/atom.xml)                          | 小明明S À DOMICILE           | https://www.dongwm.com            | 编程                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xiang578.com/atom.xml)                            | 算法花园                      | https://xiang578.com              | 编程; 算法; 随笔                            |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://kaix.in/feed)                                     | KAIX.IN                   | https://kaix.in                   | 读书; 咖啡; 随笔                            |
@@ -296,6 +297,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://knightyun.github.io/feed.xml)                     | 黄琦雲的博客                    | https://knightyun.github.io/      | 编程; 前端; Linux; 技术                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://raincorn.top/atom.xml)                            | Chores                    | https://raincorn.top/             | 计算机; 网络; 日常                           |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.wizardbyron.com/index.xml)                    | 顾宇的研习笔记                   | https://www.wizardbyron.com/      | 编程; 微服务; DevOps; 质量                   |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.skrskrskrskr.com/atom.xml)                   | 小熊写字的地方                   | https://blog.skrskrskrskr.com     | 编程; 前端; 随笔                            |
 |                                                                                                                 | IPhysResearch             | https://iphysresearch.github.io   | 编程; 科研; 物理; 开源                        |
 |                                                                                                                 | 刘悦的技术博客                   | https://v3u.cn                    | 编程; python; ruby; 前端                  |
 |                                                                                                                 | Drcus &#124; 潜默           | https://yazhen.me                 | Gatsby; 随笔                            |
