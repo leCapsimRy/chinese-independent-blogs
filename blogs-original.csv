@@ -244,7 +244,7 @@ Seven's blog, https://blog.diqigan.cn/, https://blog.diqigan.cn/atom.xml, 编程
 东方之胱, https://east-bladder.com, https://east-bladder.com/atom.xml, 编程; 技术; 生活
 治部少辅, https://www.codewoody.com, https://www.codewoody.com/atom.xml, 编程; 随笔; 新闻
 CRIMX Blog, https://blog.crimx.com/, https://blog.crimx.com/rss.xml, 编程; 前端; 开源; 随笔
-小非的物理小站, https://xiaophy.com/, , 物理; 开放科学; 随笔
+小非的物理小站, https://xiaophy.com/, https://xiaophy.com/feed.xml, 物理; 开放科学; 随笔
 Michael翔, https://michael728.github.io/, https://michael728.github.io/atom.xml, 编程; DevOps; 随笔
 Dosk 技术站, https://www.dosk.win/, https://www.dosk.win/feed.xml, 编程; 前端; C++
 会打篮球的程序猿, http://www.lzhpo.com, , 编程; 福利; 技术; 生活
@@ -435,3 +435,5 @@ Luyu Huang's Tech Blog, https://luyuhuang.github.io, https://luyuhuang.github.io
 YIDAJIABEI, https://www.yidajiabei.xyz/, https://www.yidajiabei.xyz/rss.xml, 生活; 技术
 四方之云, https://jingyig.com/, https://jingyig.com/atom.xml, 思考; 外语; 数学; 记录
 Aksoo's blog, https://aksoo.site/, https://aksoo.site/atom.xml, 文学
+四喜丸子, https://fourhappylions.com/, https://fourhappylions.com/index.xml, 养娃; 家庭; 海外生活
+豌豆(没有荚), https://wandoer.com, , 编程; 摄影; 随笔; 无线电

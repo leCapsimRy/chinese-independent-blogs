@@ -267,6 +267,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://guhub.cn/feed)                                        | Eltrac's Track             | https://guhub.cn                      | 编程; 前端; 生活; 游戏; 思考; 随笔                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://zsqk.github.io/news/feed.xml)                         | news view                  | https://zsqk.github.io/news/          | 编程; 随笔                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.yidajiabei.xyz/rss.xml)                           | YIDAJIABEI                 | https://www.yidajiabei.xyz/           | 生活; 技术                                         |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://fourhappylions.com/index.xml)                         | 四喜丸子                       | https://fourhappylions.com/           | 养娃; 家庭; 海外生活                                   |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://shrekshao.github.io/feed.xml)                          | ShrekShao                  | http://shrekshao.github.io            | 编程                                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://ridiqulous.com/feed)                                  | RidiQulous                 | https://ridiqulous.com                | 图像处理; 乐高                                       |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://vzardlloo.github.io/atom.xml)                         | vzard's blog               | https://vzardlloo.github.io           | 编程                                             |
@@ -334,6 +335,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://laogongshuo.com/feed)                                 | 龚成博客                       | https://laogongshuo.com               | 随想; 编程; 哲学; 经济学                                |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.diqigan.cn/atom.xml)                             | Seven's blog               | https://blog.diqigan.cn/              | 编程; 随笔; Geek; Java; Linux                      |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.codewoody.com/atom.xml)                           | 治部少辅                       | https://www.codewoody.com             | 编程; 随笔; 新闻                                     |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xiaophy.com/feed.xml)                                 | 小非的物理小站                    | https://xiaophy.com/                  | 物理; 开放科学; 随笔                                   |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.dosk.win/feed.xml)                                | Dosk 技术站                   | https://www.dosk.win/                 | 编程; 前端; C++                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.aqours.life/feed/)                               | 仙神の小屋                      | https://blog.aqours.life/             | 编程; OI; 随笔; 思考                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.xiejingyang.com/feed/)                            | Xieisabug                  | https://www.xiejingyang.com/          | 编程; 前端; 随笔; 思考; 创意                             |
@@ -421,7 +423,6 @@
 |                                                                                                                     | 朱双印                        | http://www.zsythink.net/              | 运维; 编程                                         |
 |                                                                                                                     | the5fire的技术博客              | https://www.the5fire.com/             | 编程; Python 大佬; 算法; 随笔; 读书                      |
 |                                                                                                                     | 以梦喂马                       | http://hwdef.com/                     | 编程; 随笔; k8s; golang                            |
-|                                                                                                                     | 小非的物理小站                    | https://xiaophy.com/                  | 物理; 开放科学; 随笔                                   |
 |                                                                                                                     | 会打篮球的程序猿                   | http://www.lzhpo.com                  | 编程; 福利; 技术; 生活                                 |
 |                                                                                                                     | 雷全的个人网站                    | https://leiquan.website/              | 编程; 文学; 科技; 生活                                 |
 |                                                                                                                     | 轶哥博客                       | https://www.wyr.me                    | 编程; 全栈; 随笔                                     |
@@ -455,6 +456,7 @@
 |                                                                                                                     | Nero的博客                    | https://www.neroht.com                | 技术; 分享; 创造                                     |
 |                                                                                                                     | 挥舞思绪的博客                    | https://asazero.blogspot.com          | 评论; 心路历程; 分享                                   |
 |                                                                                                                     | 甜欣屋                        | https://www.tcxx.info                 | 美国生活; 技术; 人工智能                                 |
+|                                                                                                                     | 豌豆(没有荚)                    | https://wandoer.com                   | 编程; 摄影; 随笔; 无线电                                |
 
 ## 什么是独立博客
 
