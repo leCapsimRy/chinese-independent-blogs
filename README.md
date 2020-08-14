@@ -277,6 +277,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://zsqk.github.io/news/feed.xml)                         | news view                  | https://zsqk.github.io/news/          | 编程; 随笔                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://fourhappylions.com/index.xml)                         | 四喜丸子                       | https://fourhappylions.com/           | 养娃; 家庭; 海外生活                                   |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.jalenchuh.cn/atom.xml)                           | JalenChuh                  | https://blog.jalenchuh.cn             | 算法; 生活; 折腾                                     |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.xn2001.com/feed)                                  | 乐心湖's Blog                 | https://www.xn2001.com                | 编程; 生活                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://shrekshao.github.io/feed.xml)                          | ShrekShao                  | http://shrekshao.github.io            | 编程                                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://ridiqulous.com/feed)                                  | RidiQulous                 | https://ridiqulous.com                | 图像处理; 乐高                                       |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://vzardlloo.github.io/atom.xml)                         | vzard's blog               | https://vzardlloo.github.io           | 编程                                             |
@@ -433,6 +434,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://mathpretty.com/feed/)                                 | 文艺数学君                      | https://mathpretty.com/               | 编程; 生活; 数学                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.likelyunlucky.xyz/feed)                           | 多半不走运                      | https://www.likelyunlucky.xyz         | 文理; 工艺; 商政; 娱乐                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.luozhiyun.com/feed)                               | luozhiyun`s Blog 我的技术分享    | https://www.luozhiyun.com/            | 编程; 生活                                         |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.dugulingping.com/feed)                           | 独孤伶俜                       | https://blog.dugulingping.com/        | 编程; 生活; 随笔                                     |
 |                                                                                                                     | IPhysResearch              | https://iphysresearch.github.io       | 编程; 科研; 物理; 开源                                 |
 |                                                                                                                     | 刘悦的技术博客                    | https://v3u.cn                        | 编程; python; ruby; 前端                           |
 |                                                                                                                     | 王亚振-随笔博客                   | https://yazhen.me                     | Gatsby; 生活; 记录; 前端                             |
@@ -479,6 +481,7 @@
 |                                                                                                                     | 杨永康的个人博客                   | https://blog.yangyk.com/              | 编程; 随笔                                         |
 |                                                                                                                     | 愤怒的蜂鸟                      | https://peon.top                      | 编程; 随笔                                         |
 |                                                                                                                     | 人生這部戲                      | https://gatsby.franks.hk/blog/        | 生活; 思考; 閱讀; 旅行; 技術                             |
+|                                                                                                                     | 峡州仙士之页                     | https://cjh0613.com                   | 技术; 生活; 思考; 分享; 编程                             |
 
 ## 什么是独立博客
 
