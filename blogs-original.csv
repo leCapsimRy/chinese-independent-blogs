@@ -405,7 +405,7 @@ ZedeX, https://zedex.cn, https://zedex.cn/feed, 产品; 科技; 生活
 Gavin notes, https://blog.gavln.com, https://blog.gavln.com/atom.xml, 技术; 随笔
 TwIStOy, https://twistoy.com/, https://twistoy.com/feed, 编程; 后端; C++
 一杯茶, https://www.zuoyu.top/, https://www.zuoyu.top/atom.xml, 技术; 生活; 经济
-Louis Aeilot's Blog, https://aeilot.github.io/blog/, https://aeilot.github.io/blog/atom.xml, 编程; 技术; 艺术; OI
+Louis Aeilot's Blog, https://aeilot.github.io/, https://aeilot.github.io/index.xml, 随笔; 技术; 艺术; 生活
 云游君的小站, https://www.yunyoujun.cn, https://www.yunyoujun.cn/atom.xml, 生活; 技术; 艺术; 编程
 骁之屋 - 孙天骁的随身记录个人网站, https://www.ybusad.com, , 生活; 随记; 技术; 思考
 WuSiYu Blog, https://wusiyu.me, https://wusiyu.me/feed/, 折腾; 技术; DIY; Linux
@@ -467,3 +467,5 @@ Yuko's Blog, https://yuukoamamiya.github.io/, https://yuukoamamiya.github.io/ato
 渚碧, https://jubeny.com/, https://jubeny.com/feed.xml, 读书; 生活; 随想
 以梦为马, https://lhymwm.github.io, https://lhymwm.github.io//atom.xml, 学习; 生活; 断想
 Jiayi Liu, https://jiayiliu.me/, , 生活; 随笔; 生物信息学; 生物医学; 折腾
+遥远的街市, https://blog.henix.info/, https://blog.henix.info/rss2.0.xml, 编程; 随笔
+陈仓颉, https://imzm.im, https://imzm.im/feed, 生活; 随笔; 摄影
