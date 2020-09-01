@@ -441,6 +441,8 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.luozhiyun.com/feed)                               | luozhiyun`s Blog 我的技术分享    | https://www.luozhiyun.com/            | 编程; 生活                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.dugulingping.com/feed)                           | 独孤伶俜                       | https://blog.dugulingping.com/        | 编程; 生活; 随笔                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://lhymwm.github.io//atom.xml)                           | 以梦为马                       | https://lhymwm.github.io              | 学习; 生活; 断想                                     |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://jiayiliu.me/index.xml)                                | Jiayi Liu                  | https://jiayiliu.me/                  | 生活; 随笔; 生物信息学; 生物医学; 折腾                        |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://dlizi.com/feed)                                       | 霂森西 &#124; 櫻玲桉             | https://dlizi.com/                    | 编程; 学习; 生活                                     |
 |                                                                                                                     | IPhysResearch              | https://iphysresearch.github.io       | 编程; 科研; 物理; 开源                                 |
 |                                                                                                                     | 刘悦的技术博客                    | https://v3u.cn                        | 编程; python; ruby; 前端                           |
 |                                                                                                                     | 王亚振-随笔博客                   | https://yazhen.me                     | Gatsby; 生活; 记录; 前端                             |
@@ -488,7 +490,6 @@
 |                                                                                                                     | 愤怒的蜂鸟                      | https://peon.top                      | 编程; 随笔                                         |
 |                                                                                                                     | 人生這部戲                      | https://gatsby.franks.hk/blog/        | 生活; 思考; 閱讀; 旅行; 技術                             |
 |                                                                                                                     | 峡州仙士之页                     | https://cjh0613.com                   | 技术; 生活; 思考; 分享; 编程                             |
-|                                                                                                                     | Jiayi Liu                  | https://jiayiliu.me/                  | 生活; 随笔; 生物信息学; 生物医学; 折腾                        |
 
 ## 什么是独立博客
 
@@ -499,7 +500,7 @@
 
 1. 在 [./blogs-original.csv](./blogs-original.csv) 中填入博客 URL, RSS 及简介
 2. 提交 PR
-3. PR 被 merge 之后 README 通过 [./script.js](./script.js) 生成
+3. (自动) PR 被 merge 之后 README 通过 [./script.js](./script.js) 生成
 
 ## 为什么要收集这张列表
 
