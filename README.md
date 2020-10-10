@@ -284,6 +284,8 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://maxoxo.me/rss/)                                       | maxOS                      | https://maxoxo.me                     | 设计; 阅读; 随笔; 歌单                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://imzm.im/feed)                                         | 陈仓颉                        | https://imzm.im                       | 生活; 随笔; 摄影                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.zcmimi.top/atom.xml)                             | zcmimi's blog              | https://blog.zcmimi.top/              | 编程; 算法; 学习; 笔记; 技术                             |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xugaoxiang.com/feed)                                  | 迷途小书童                      | https://xugaoxiang.com                | 工作; 编程; 技术                                     |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xuyisheng.top/rss/)                                   | 徐宜生                        | https://xuyisheng.top                 | 工作; 编程; 技术                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://alili.tech/index.xml)                                 | Alili丶前端大爆炸                | https://alili.tech                    | 编程; 前端                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://shrekshao.github.io/feed.xml)                          | ShrekShao                  | http://shrekshao.github.io            | 编程                                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://ridiqulous.com/feed)                                  | RidiQulous                 | https://ridiqulous.com                | 图像处理; 乐高                                       |
@@ -449,6 +451,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://wsdjeg.spacevim.org/feed.xml)                         | Wsdjeg's Blog              | https://wsdjeg.spacevim.org/          | 编程; 生活; 笔记                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://painso.com/posts/index.xml)                           | ephz3nt                    | https://painso.com                    | 随想; 运维; 学习                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xiaozhu.dev/index.xml)                                | 小猪                         | https://xiaozhu.dev                   | 技术; 编程; 前端; 学习                                 |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.luxianpo.com/rss.xml)                             | 卢贤泼的博客                     | https://www.luxianpo.com              | 工作; 生活; 技术; 笔记                                 |
 |                                                                                                                     | IPhysResearch              | https://iphysresearch.github.io       | 编程; 科研; 物理; 开源                                 |
 |                                                                                                                     | 刘悦的技术博客                    | https://v3u.cn                        | 编程; python; ruby; 前端                           |
 |                                                                                                                     | 王亚振-随笔博客                   | https://yazhen.me                     | Gatsby; 生活; 记录; 前端                             |
@@ -497,6 +500,7 @@
 |                                                                                                                     | 人生這部戲                      | https://gatsby.franks.hk/blog/        | 生活; 思考; 閱讀; 旅行; 技術                             |
 |                                                                                                                     | 峡州仙士之页                     | https://cjh0613.com                   | 技术; 生活; 思考; 分享; 编程                             |
 |                                                                                                                     | 翻墙101的Blog                 | https://wall101.com                   | 技术; 编程; 网安; Hack                               |
+|                                                                                                                     | 251                        | https://blog.251.sh                   | 编程; 生活; 技术; 教程; 学习                             |
 
 ## 什么是独立博客
 
