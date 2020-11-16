@@ -323,6 +323,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://hiwannz.com/feed)                                     | 见字如面                       | https://hiwannz.com                   | 产品; 思考; 生活                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://article.mebtte.com/rss.xml)                           | NotJustCode                | https://article.mebtte.com            | 编程; 前端; 后端                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://blog.hanschen.site/atom.xml)                           | HansChen 的博客               | http://blog.hanschen.site             | 编程; Android                                    |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://iphysresearch.github.io/blog/post/index.xml)          | IPhysResearch              | https://iphysresearch.github.io/blog/ | 编程; 科研; 物理; 引力波; AI; 机器学习; 深度学习; 开源            |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://desvl.xyz/atom.xml)                                   | Desvl's blog               | https://desvl.xyz                     | 数学                                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://hkvision.cn/index.xml)                                | haokunt的博客                 | https://hkvision.cn                   | Python; Golang; GIS; 编程                        |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://deepzz.com/feed)                                      | Deepzz's Blog              | https://deepzz.com                    | 编程; 生活                                         |
@@ -344,7 +345,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xsky.me/feed/)                                        | 空之领域                       | https://xsky.me                       | 生活                                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://sword.studio/feed)                                    | 杂货屋                        | https://sword.studio/                 | 技术; 分享; 记录                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.lacia.cn/atom.xml)                               | 沐凉                         | https://blog.lacia.cn                 | 编程; Java                                       |
-| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.endureblaze.cn/atom.xml)                         | 炎忍的博客                      | https://blog.endureblaze.cn/          | 编程; 随笔; 生活; 折腾                                 |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.imyan.ren/atom.xml)                              | 炎忍的博客                      | https://blog.imyan.ren                | 编程; 随笔; 生活; 折腾                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://gylidian.js.org/rss2.xml)                             | 啊哈呵嗨的博客                    | https://gylidian.js.org               | 编程; 前端; 全栈; 任天堂; 专栏                            |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://www.z16388.top/atom.xml)                               | 崎径 其镜赵安琪的博客                | http://www.z16388.top/                | 编程; 游戏; 音乐                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://gaficat.com/atom.xml)                                 | 加菲猫的创客工坊                   | https://gaficat.com                   | 电子DIY; 物联网; 生活; 技术教程; 钢琴; 网络安全                 |
@@ -363,6 +364,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.dosk.win/feed.xml)                                | Dosk 技术站                   | https://www.dosk.win/                 | 编程; 前端; C++                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.aqours.life/feed/)                               | 仙神の小屋                      | https://blog.aqours.life/             | 编程; OI; 随笔; 思考                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.xiejingyang.com/feed/)                            | Xieisabug                  | https://www.xiejingyang.com/          | 编程; 前端; 随笔; 思考; 创意                             |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://blog.vadxq.com/atom.xml)                              | 清竹茶馆博客                     | https://blog.vadxq.com                | 编程; 前端; 全栈; 生活                                 |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://fengxu.ink/atom.xml)                                  | 隋堤倦客                       | https://fengxu.ink/                   | 编程; 前端; 生活; 随笔; 诗词                             |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.wolone.wang/feed/)                                | 老镭                         | https://www.wolone.wang/              | 编程; 生活                                         |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.larscheng.com/atom.xml)                           | LarsCheng                  | https://www.larscheng.com/            | 编程; Java; 生活                                   |
@@ -464,14 +466,13 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://zxs.io/feed)                                          | XINDOO的博客                  | https://zxs.io                        | 算法; 编程; 人生                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://geektutu.com/feed.xml)                                | 极客兔兔                       | https://geektutu.com                  | 分享有趣的技术实践                                      |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://azhuge233.com/feed)                                   | azhuge233's Blog           | https://azhuge233.com                 | 编程; 技术; 教程; dotnet; python                     |
-| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.geekzl.com/feed.xml)                              | 极客中心                       | https://www.geekzl.com                | 编程; 技术; SEO; 教程; dotnet; python                |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.geekzl.com/feed)                                  | 极客中心                       | https://www.geekzl.com                | 编程; 技术; SEO; 教程; dotnet; python                |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.grofis.com/feed.xml)                              | 书呆子创业网                     | https://www.grofis.com                | 产品杂谈; 编程; 技术                                   |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://kubesphereio.com/tags/index.xml)                      | 一切皆有可能                     | https://kubesphereio.com/             | 学习; K8s; 运维                                    |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://geekplayers.com/feed.xml)                             | 极客玩家大白                     | https://geekplayers.com               | 技术; SEO; 运营; 教程; python                        |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://atticuslab.com/atom.xml)                              | 堆栈酒馆                       | https://atticuslab.com                | 编程; 后端; 笔记                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.eriqua.com/index.php/feed)                        | 爱里瓜                        | https://www.eriqua.com                | 读书; 外语; 日记                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://yishi.io/feed)                                        | 王一石                        | https://yishi.io/                     | 商业; 金融; 加密货币; 创业                               |
-|                                                                                                                     | IPhysResearch              | https://iphysresearch.github.io       | 编程; 科研; 物理; 开源                                 |
 |                                                                                                                     | 刘悦的技术博客                    | https://v3u.cn                        | 编程; python; ruby; 前端                           |
 |                                                                                                                     | 王亚振-随笔博客                   | https://yazhen.me                     | Gatsby; 生活; 记录; 前端                             |
 |                                                                                                                     | LIANYONGXING的博客            | https://lianyongxing.github.io/       | 编程; 技术; 生活                                     |
@@ -484,7 +485,6 @@
 |                                                                                                                     | 会打篮球的程序猿                   | http://www.lzhpo.com                  | 编程; 福利; 技术; 生活                                 |
 |                                                                                                                     | 雷全的个人网站                    | https://leiquan.website/              | 编程; 文学; 科技; 生活                                 |
 |                                                                                                                     | 轶哥博客                       | https://www.wyr.me                    | 编程; 全栈; 随笔                                     |
-|                                                                                                                     | 清竹茶馆博客                     | https://blog.vadxq.com                | 编程; 前端; 全栈; 生活                                 |
 |                                                                                                                     | hywel前端个人博客                | http://www.hywel.cn/                  | 编程; 前端; WEB; 随笔                                |
 |                                                                                                                     | 开发者小蓝                      | http://lanhao.name                    | 编程                                             |
 |                                                                                                                     | Jansora                    | http://www.jansora.com/               | 编程; 全栈                                         |
@@ -561,3 +561,4 @@
   - [Gatsby](https://www.gatsbyjs.org/)
   - [Ghost](https://ghost.org/)
   - [Wordpress](https://wordpress.com/)
+  - [Wowchemy](https://wowchemy.com)
