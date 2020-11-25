@@ -15,7 +15,7 @@
 
 ## 博客列表
 
-> 暂时粗暴得按照 feedly 上的订阅数据排了个先后顺序. 欢迎加入 [Telegram 群](https://t.me/indieBlogs) 讨论如何更好地组织和利用这个列表
+> 暂时根据各 RSS 服务订阅数据排了个先后顺序. 欢迎加入 [Telegram 群](https://t.me/indieBlogs) 讨论如何更好地组织和利用这个列表
 
 | RSS 订阅数                                                                                                             | 简介                         | 链接                                    | 标签                                             |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------- | ---------------------------------------------- |
@@ -475,6 +475,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://www.eriqua.com/index.php/feed)                        | 爱里瓜                        | https://www.eriqua.com                | 读书; 外语; 日记                                     |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://yishi.io/feed)                                        | 王一石                        | https://yishi.io/                     | 商业; 金融; 加密货币; 创业                               |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://ambroseren.github.io)                                 | AmbroseRen                 | https://ambroseren.github.io/test/    | 综合数据库笔记; 博客                                    |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://tingfei.art/index.xml)                                | Fat Blog &#124; 挺肥的博客      | http://tingfei.art/                   | 区块链; 科幻; Rust; 美食                              |
 |                                                                                                                     | 刘悦的技术博客                    | https://v3u.cn                        | 编程; python; ruby; 前端                           |
 |                                                                                                                     | 王亚振-随笔博客                   | https://yazhen.me                     | Gatsby; 生活; 记录; 前端                             |
 |                                                                                                                     | LIANYONGXING的博客            | https://lianyongxing.github.io/       | 编程; 技术; 生活                                     |
@@ -557,10 +558,14 @@
 
 ## 博客构建工具推荐
 
-  - [Saber](https://saber.land/)
-  - [Hexo](https://hexo.io)
-  - [vue-press](https://vuepress.vuejs.org/)
-  - [Gatsby](https://www.gatsbyjs.org/)
+  - [Gatsby](https://gatsbyjs.org/)
   - [Ghost](https://ghost.org/)
+  - [Gride](https://gridea.dev/)
+  - [Hexo](https://hexo.io/)
+  - [Hugo](https://gohugo.io/)
+  - [Jekyll](https://jekyllrb.com/)
+  - [Saber](https://saber.land/)
+  - [Typecho](https://typecho.org)
+  - [Vuepress](https://vuepress.vuejs.org/)
   - [Wordpress](https://wordpress.com/)
   - [Wowchemy](https://wowchemy.com)
